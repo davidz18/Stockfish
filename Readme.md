@@ -1,3 +1,7 @@
+### Fork Overview
+
+This is a fork created with the goal of providing various custom functionality in Stockfish.
+
 ### Overview
 
 [![Build Status](https://travis-ci.org/official-stockfish/Stockfish.svg?branch=master)](https://travis-ci.org/official-stockfish/Stockfish)
