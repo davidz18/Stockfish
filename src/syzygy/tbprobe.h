@@ -74,6 +74,11 @@ inline std::ostream& operator<<(std::ostream& os, const ProbeState v) {
     return os;
 }
 
+extern int Cardinality;
+extern bool RootInTB;
+extern bool UseRule50;
+extern Depth ProbeDepth;
+
 }
 
 #endif
